@@ -1,0 +1,14 @@
+{
+  "name": "px2vw-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nocatch",
+  "license": "ISC"
+}
