@@ -3,6 +3,7 @@
 计算方式为 px / 19.2vw | px / 4.14vw;
 
 webpack 配置：
+```javascript
     module: {
         rules: [{
             test: /\.less$/,
@@ -22,4 +23,4 @@ webpack 配置：
             ]
         }]
     }
-
+```
