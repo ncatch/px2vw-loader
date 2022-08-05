@@ -42,3 +42,18 @@ webpack 配置：
     }
 }
 ```
+
+结果
+```css
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 0.72916667vw;
+}
+
+@media (max-width: 768px) {
+    * {
+        font-size: 0.0289855072vw;
+    }
+}
+```
