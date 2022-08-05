@@ -24,3 +24,21 @@ webpack 配置：
         }]
     }
 ```
+
+例子
+```css
+@vw: 1920px;
+@vwm: 414px;
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+
+@media (max-width: 768px) {
+    * {
+        font-size: 12px;
+    }
+}
+```
