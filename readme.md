@@ -3,7 +3,7 @@
 计算方式为 px / 19.2vw | px / 4.14vw;
 
 webpack 配置：
-module: {
+    module: {
     rules: [{
         test: /\.less$/,
         // 只处理目录下的文件
@@ -21,5 +21,5 @@ module: {
             },
         ]
     }]
-}
+    }
 
